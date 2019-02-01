@@ -1,0 +1,11 @@
+- name: FSU
+  url: https://github.com/drewlabs/fsu-server
+  description: A socket based fail-safe file transfer protocol for safely transfer large files
+
+- name: Mathica
+  url: https://github.com/drewlabs/mathica
+  description: Python library for solving mathematical expressions for infinite digit long numbers
+
+- name: G-Prot
+  url: https://github.com/drewlabs/g-prot
+  description: A framework for developing your own network protocols with enhanced security by just minimal configurations

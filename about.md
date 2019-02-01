@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Drewlabs was started back in 2017 by few students from Indian Institute of Technology, Roorkee with a vision of solving industrial problems, involving student community.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Most of the projects are the problems that students seen while working on internship in the industry whereas some active projects are research oriented.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+We have a clear vision for Drewlabs that `It should always get maintained and organized by students, having zeal to shape innovative solutions for industry and academic research.`
